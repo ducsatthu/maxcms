@@ -7,6 +7,6 @@
 ## Usage
 
 ``` php
-php artisan verdor:publish
+php artisan vendor:publish
 php artisan migrate
 ```
